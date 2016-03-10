@@ -34,8 +34,9 @@ div {
     -webkit-transform: rotate(-90deg);
     margin: 0;
     position: fixed;
-    left: -4.3em;
-    top: 8em;
+    left: -2.3em;
+    top: 11em;
+    font-size: 1.3vw;
 }
 
 .last{
