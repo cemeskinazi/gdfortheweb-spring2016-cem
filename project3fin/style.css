@@ -1,0 +1,19 @@
+
+
+
+div {
+    font-family: arial;
+    font-size: 15vw;
+    font-weight: bold;
+    color: red;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility !important;
+}
+
+body{margin: 0;}
+
+.theimage {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+}
