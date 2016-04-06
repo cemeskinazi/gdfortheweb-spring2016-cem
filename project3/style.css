@@ -40,6 +40,7 @@ body{margin: 0;}
     text-rendering: optimizeLegibility !important;
     text-indent: 1vw;
     z-index: 5;
+    margin: -1px;
 }
 
 
